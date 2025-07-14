@@ -28,4 +28,4 @@ This is a beginner-friendly Microsoft Excel project designed to help individuals
 This project demonstrates how to use Excel for simple personal finance management using basic but powerful features.
 
 ## 🔗 GitHub Repository
-[https://github.com/your-username/monthly-expense-tracker](https://github.com/maheswari1997-wq/excel-expense-tracker)
+(https://github.com/maheswari1997-wq/excel-expense-tracker)
